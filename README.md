@@ -8,5 +8,3 @@ Hi, I'm Lee
 **Email**: lee.napthine@gmail.com <br>
 **Linkedin**: linkedin.com/in/leenapthine <br>
 **Twitter**: twitter.com/NedTheRed3 <br>
-
-[Lee's GitHub stats:]()
