@@ -15,3 +15,8 @@ Hi, I'm Lee
 #### HIRE ME:
 
 **[Resume](https://github.com/NeddTheRedd/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Coop%20May%2013th%202024.pdf)**
+
+---
+#### PROJECTS:
+
+Welcome to my portfolio, where I showcase a collection of both independent and academic [projects](https://github.com/NeddTheRedd/Portfolio-Index).
