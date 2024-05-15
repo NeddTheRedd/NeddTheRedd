@@ -7,7 +7,7 @@ Hi, I'm Lee
 ---
 #### CONNECT WITH ME:
 
-**Email**: lee.napthine@gmail.com <br>
+**E-mail**: lee.napthine@gmail.com <br>
 **Linkedin**: linkedin.com/in/leenapthine <br>
 **Twitter**: twitter.com/NedTheRed3 <br>
 
