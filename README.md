@@ -1,9 +1,6 @@
-Hi, I'm Lee
 
-* Studying computer science degree at the University of Victoria (third year)<br>
-* I have a keen interest in games and [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP) <br>
-* I’m looking to collaborate on data analytics projects, particularly related to music <br>
-* I’m looking for help with a chess hybrid game written in C++ ... find it in my [projects](https://github.com/NeddTheRedd/Portfolio-Index)! <br>
+**Hello, I'm Lee**, a third-year computer science student at the University of Victoria. My interests lie at the intersection of [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP), data analysis, and technology. Currently, I'm eager to collaborate on projects within these realms. If you share these interests, **let's connect!** <br>
+
 ---
 #### CONNECT WITH ME:
 
@@ -14,7 +11,7 @@ Hi, I'm Lee
 ---
 #### HIRE ME:
 
-**[Resume](https://github.com/NeddTheRedd/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Coop%20May%2013th%202024.pdf)**
+* **[Resume](https://github.com/NeddTheRedd/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Coop%20May%2013th%202024.pdf)**
 
 ---
 #### PROJECTS:
