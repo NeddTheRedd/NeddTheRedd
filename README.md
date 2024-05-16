@@ -1,5 +1,5 @@
 
-**Hello, I'm Lee**, a third-year computer science student at the University of Victoria. My interests lie at the intersection of [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP), data analysis, and technology. Currently, I'm eager to collaborate on projects within these realms. If you share these interests, **let's connect!** <br>
+**Hello, I'm Lee**, a third-year computer science student at the University of Victoria. My interests lie at the intersection of [music](https://open.spotify.com/artist/50gZGkC4xYd5vJUBEnXwXP), data analysis, and technology. Currently, I'm eager to collaborate on projects within these realms. <br>If you share these interests, **let's connect!** <br>
 
 ---
 #### CONNECT WITH ME:
