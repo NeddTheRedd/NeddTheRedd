@@ -11,7 +11,7 @@
 ---
 #### HIRE ME:
 
-* **[Resume](https://github.com/NeddTheRedd/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Coop%20May%2013th%202024.pdf)**
+* **[Resume](https://github.com/NeddTheRedd/Resume/blob/main/Lee%20Napthine%20Resume%20-%20Coop%20June%2023%202024.pdf)**
 
 ---
 #### PROJECTS:
